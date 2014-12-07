@@ -1,5 +1,6 @@
 MaterialShellApk
 ================
+https://travis-ci.org/kalehv/MaterialShellApk.svg
 
 Material Design based shell app for Android.
 
